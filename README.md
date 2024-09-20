@@ -79,4 +79,4 @@ Caso tenha interesse em se juntar ao grupo ou deseja mais informações, entre e
 ---
 
 **© 2024 Shota Group Entertainment**  
-Projeto criado por **Jair de Aguiar Neto**.
+Projeto criado por **Victor Gopfert**.
