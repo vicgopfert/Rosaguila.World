@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-**Rosaguila.World** é um site dedicado ao cenário de campanha de RPG de mesa "Roságuila", criado por Jair de Aguiar Neto, utilizando o sistema de Dungeons & Dragons Quinta Edição. O objetivo principal do projeto é apresentar um universo de aventura com uma identidade única, agregando histórias originais que se passam no mesmo universo. O projeto começou como uma brincadeira de amigos e não foi finalizado, porém é possível que seja atualizado futuramente e utilizado como um site oficial para a campanha de RPG, usei um template para estrutura básica inicial e alterei e adicionei estruturas conforme necessário, servindo como prática de estudos para desenvolvimento frontend e backend.
+**Rosaguila.World** é um site dedicado ao cenário de campanha de RPG de mesa "Roságuila", criado por Jair de Aguiar Neto, utilizando o sistema de Dungeons & Dragons Quinta Edição. O objetivo principal do projeto é apresentar um universo de aventura com uma identidade única, agregando histórias originais que se passam no mesmo universo. O projeto começou como uma brincadeira de amigos e não foi finalizado, porém é possível que seja atualizado futuramente e utilizado como um site oficial para a campanha de RPG, usei um template para estrutura básica inicial (fonte: 'https://templatemo.com/') e alterei e adicionei estruturas conforme necessário, servindo como prática de estudos para desenvolvimento frontend e backend.
 
 ## Estrutura do Site
 
